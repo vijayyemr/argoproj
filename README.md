@@ -1,0 +1,2 @@
+# argoproj
+argocd-example-apps
